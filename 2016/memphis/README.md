@@ -1,10 +1,10 @@
 # NodeBots Day 2016 for Memphis, Tennessee, U.S.A.!
 
  - Organizers:
-   * Eric Terpstra (@eterps)[https://twitter.com/eterps] eterps@gmail.com
-   * Bryan Robinson
-   * Claudio Donndelinger
- - Home Page: (Memphis Web Workers)[https://www.memphiswebworkers.org]
+   * Eric Terpstra [@eterps](https://twitter.com/eterps) eterps@gmail.com
+   * Bryan Robinson [@brob](https://twitter.com/brob)
+   * Claudio Donndelinger [@orias0_o](https://twitter.com/orias0_o)
+ - Home Page: [Memphis Web Workers](https://www.memphiswebworkers.org)
  - Ticket Link: {TBD}
  - Location: FedEx Institute of Technology, University of Memphis.
  - Date: July 30, 2016
